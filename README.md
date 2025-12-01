@@ -1,7 +1,7 @@
 # FaceMesh ID System
 
 ## Overview
-This system provides 3D face reconstruction and biometric registration/comparison. It consists of a React frontend and a FastAPI backend. It relies on an external inference API (running on port 5011) to generate raw mesh data.
+This system provides 3D face reconstruction and biometric registration/comparison. It consists of a React frontend and a FastAPI backend. It relies on an external inference API to generate raw mesh data.
 
 ## Prerequisites
 1. **Python 3.9+**
