@@ -1,0 +1,7 @@
+{
+  "name": "FaceMesh ID",
+  "description": "A full-stack application for 3D face reconstruction, registration, and comparison using React, Three.js, and FastAPI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
